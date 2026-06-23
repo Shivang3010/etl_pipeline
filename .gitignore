@@ -1,0 +1,14 @@
+# Environments
+venv/
+.env
+
+# Databases
+*.db
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Heavy Data / Outputs
+data/
+output/
